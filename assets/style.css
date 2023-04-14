@@ -65,7 +65,7 @@ a{
 }
 
 #showcase {
-    background-color: url("../assets/images/showcase.jpg");
+    background: url("../assets/images/showcase.jpg");
     background-position: center;
     background-size: cover;
     text-align: center;
