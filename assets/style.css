@@ -65,7 +65,7 @@ a{
 }
 
 #showcase {
-    background-color: url("./images/istockphoto-476412670-612x612.jpg");
+    background-color: url("../assets/images/showcase.jpg");
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -148,4 +148,16 @@ a{
     background: #f9f9f9;
     text-align: center;
     padding: 20px;
+}
+
+@media (max-width:950px) {
+
+    .about-row ,
+    .contact-row {
+        flex-direction: column;
+        width: 100%;
+    }
+    .about-me-row {
+        text-align: center;
+    }
 }
