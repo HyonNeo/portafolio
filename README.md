@@ -25,6 +25,8 @@ https://www.youtube.com/watch?v=0YFrGy_mzjY
 
 https://www.youtube.com/watch?v=tcskp-ncN0I
 
+And a friend how helped me when i was stucked in the menu and the images
+
 
 
 
