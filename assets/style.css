@@ -13,6 +13,7 @@ body {
     font-family: 'Montserrat' , sans-serif;
 }
 
+
 h2 {
     font-size: 1.7rem;
     text-align: center;
@@ -36,9 +37,10 @@ a{
     text-decoration: none;
 }
 
+
 .container {
     margin: auto;
-    max-width: 1300px;
+    max-width: 1500px;
     overflow: auto;
     padding: 0 20px;
 }
@@ -108,10 +110,10 @@ a{
 }
 
 .proyects-row {
-    display: flex;
+    display: flex; 
 }
 .proyects-row img {
-    width: 100%;
+    width: 15vw;
 }
 
 #About {
@@ -134,6 +136,7 @@ a{
 }
 .contact-row {
     display: flex;
+    justify-content: center;
 }
 
 .contact-row-icon {
@@ -149,6 +152,17 @@ a{
     text-align: center;
     padding: 20px;
 }
+#bookmark-img{
+    width:67%
+}
+#proyect3{
+   margin-right: 150px;
+}
+#proyect2{
+    margin-right: 150px;
+}
+
+
 
 @media (max-width:900px) {
 
